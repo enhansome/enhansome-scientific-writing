@@ -14,7 +14,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 59992
+            "stars": 60004
           }
         },
         {
@@ -111,7 +111,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4431
+                "stars": 4430
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3270
+                "stars": 3269
               }
             }
           ]
@@ -144,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:16:57Z",
+            "last_commit": "2026-08-13T09:18:36Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5906
+            "stars": 5910
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-08T07:42:44Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:21.635Z",
+    "last_updated": "2026-08-13T11:08:08.553Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
