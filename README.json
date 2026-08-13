@@ -1,0 +1,355 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marktext",
+          "description": "Markdown text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T03:16:54Z",
+            "owner": "marktext",
+            "repo": "marktext",
+            "stars": 59992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R Studio",
+          "description": "IDE for R.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bookdown",
+              "description": "R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T14:07:39Z",
+                "owner": "rstudio",
+                "repo": "bookdown",
+                "stars": 4068
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:24:48Z",
+            "owner": "rstudio",
+            "repo": "rstudio",
+            "stars": 5042
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Vim",
+          "description": "Command line text editor.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-pandoc",
+              "description": "Pandoc integration and utilities for Vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vim Script",
+                "last_commit": "2025-11-07T12:41:19Z",
+                "owner": "vim-pandoc",
+                "repo": "vim-pandoc",
+                "stars": 965
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-pandoc-syntax",
+              "description": "Pandoc syntax highlighting for Vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vim Script",
+                "last_commit": "2025-09-22T20:59:47Z",
+                "owner": "vim-pandoc",
+                "repo": "vim-pandoc-syntax",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fzf-bibtex",
+              "description": "BibTeX source with Vim integration which uses fzf (a fuzzy finder implemented in Go).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-07-25T18:18:12Z",
+                "owner": "msprev",
+                "repo": "fzf-bibtex",
+                "stars": 132
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Visual Studio Code",
+          "description": "Popular IDE with Markdown support.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown Preview Enhanced",
+              "description": "Pandoc integration and utilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-05-05T01:40:20Z",
+                "owner": "shd101wyy",
+                "repo": "markdown-preview-enhanced",
+                "stars": 4431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Markdown All in One",
+              "description": "Extension for enhanced Markdown support in VSCode, such as preview and auto completion to name a few.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-13T04:49:10Z",
+                "owner": "yzhang-gh",
+                "repo": "vscode-markdown",
+                "stars": 3270
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Word Processors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vale",
+          "description": "Free, open-source linter for prose built with speed and extensibility in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:16:57Z",
+            "owner": "vale-cli",
+            "repo": "vale",
+            "stars": 5906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "write-good",
+          "description": "Naive linter for English prose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-10T04:04:12Z",
+            "owner": "btford",
+            "repo": "write-good",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proselint",
+          "description": "Linter for prose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T13:41:26Z",
+            "owner": "amperser",
+            "repo": "proselint",
+            "stars": 4562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown lint tool",
+          "description": "Markdown linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T19:12:44Z",
+            "owner": "markdownlint",
+            "repo": "markdownlint",
+            "stars": 2069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remarklint",
+          "description": "Markdown linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T19:25:40Z",
+            "owner": "remarkjs",
+            "repo": "remark-lint",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restructuredtext-lint",
+          "description": "reStructuredText linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-23T08:05:17Z",
+            "owner": "twolfson",
+            "repo": "restructuredtext-lint",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LanguageCheck",
+          "description": "Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T15:55:58Z",
+            "owner": "JohannesBuchner",
+            "repo": "languagecheck",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Spell Checking and Linting"
+    },
+    {
+      "description": "Reusable minimalist examples.",
+      "items": [],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eisvogel",
+          "description": "Clean academic pandoc LaTeX template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-04T13:55:19Z",
+            "owner": "Wandmalfarbe",
+            "repo": "pandoc-latex-template",
+            "stars": 7232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template for writing a PhD thesis in Markdown",
+          "description": "Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-23T16:12:54Z",
+            "owner": "tompollard",
+            "repo": "phd_thesis_markdown",
+            "stars": 1268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bookdown-demo",
+          "description": "Minimal example of a book based on R Markdown and bookdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-23T16:05:05Z",
+            "owner": "rstudio",
+            "repo": "bookdown-demo",
+            "stars": 533
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Jupyter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T00:08:17Z",
+            "owner": "markusschanta",
+            "repo": "awesome-jupyter",
+            "stars": 4659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome LaTeX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-08T07:42:44Z",
+            "owner": "egeerardyn",
+            "repo": "awesome-LaTeX",
+            "stars": 1658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Markdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-21T03:06:19Z",
+            "owner": "BubuAnabelas",
+            "repo": "awesome-markdown",
+            "stars": 951
+          }
+        }
+      ],
+      "title": "Other Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:21.635Z",
+    "original_repository": "writing-resources/awesome-scientific-writing",
+    "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
+    "enhanced_repository": "enhansome/enhansome-scientific-writing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Scientific Writing with stars"
+  }
+}
