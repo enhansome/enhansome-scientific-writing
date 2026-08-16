@@ -14,7 +14,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60071
+            "stars": 60116
           }
         },
         {
@@ -33,14 +33,14 @@
                 "last_commit": "2026-07-09T14:07:39Z",
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4068
+                "stars": 4070
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T03:08:23Z",
+            "last_commit": "2026-08-16T05:29:34Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5043
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-14T16:13:44Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5930
+            "stars": 5938
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5077
+            "stars": 5076
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1042
+            "stars": 1041
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2023-05-23T16:12:54Z",
             "owner": "tompollard",
             "repo": "phd_thesis_markdown",
-            "stars": 1268
+            "stars": 1269
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T00:00:29Z",
+            "last_commit": "2026-08-15T23:59:10Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4661
+            "stars": 4660
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:34:23.779Z",
+    "last_updated": "2026-08-16T10:34:42.954Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
