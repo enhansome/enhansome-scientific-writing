@@ -14,7 +14,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60116
+            "stars": 60162
           }
         },
         {
@@ -33,7 +33,7 @@
                 "last_commit": "2026-07-09T14:07:39Z",
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4070
+                "stars": 4069
               }
             }
           ],
@@ -125,7 +125,7 @@
                 "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3271
+                "stars": 3272
               }
             }
           ]
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-14T16:13:44Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5938
+            "stars": 5946
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-07-04T13:55:19Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7233
+            "stars": 7234
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T23:59:10Z",
+            "last_commit": "2026-08-16T23:59:06Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4660
+            "stars": 4661
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-08T07:42:44Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1659
+            "stars": 1660
           }
         },
         {
@@ -345,7 +345,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:34:42.954Z",
+    "last_updated": "2026-08-17T10:44:39.949Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
