@@ -26,12 +26,12 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 60,162 | 🐛 672 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,043 | 🐛 1,348 | 🌐 Java | 📅 2026-08-16 - IDE for R.
-  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 232 | 🌐 JavaScript | 📅 2026-07-09 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 60,232 | 🐛 674 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,337 | 🌐 Java | 📅 2026-08-18 - IDE for R.
+  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 231 | 🌐 JavaScript | 📅 2026-08-17 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
-  * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 965 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
+  * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 967 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
   * [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) ⭐ 428 | 🐛 147 | 🌐 Vim Script | 📅 2025-09-22 - Pandoc syntax highlighting for Vim.
   * [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) ⭐ 132 | 🐛 0 | 🌐 Go | 📅 2024-07-25 - BibTeX source
     with Vim integration which uses fzf (a fuzzy finder implemented in Go).
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 45,903 | 🐛 1,053 | 🌐 Haskell | 📅 2026-08-17 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 45,916 | 🐛 1,050 | 🌐 Haskell | 📅 2026-08-17 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -99,13 +99,13 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 5,946 | 🐛 33 | 🌐 Go | 📅 2026-08-14 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 5,956 | 🐛 34 | 🌐 Go | 📅 2026-08-14 - Free, open-source linter for
   prose built with speed and extensibility in mind.
-* [write-good](https://github.com/btford/write-good) ⭐ 5,076 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
+* [write-good](https://github.com/btford/write-good) ⭐ 5,078 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
-* [proselint](https://github.com/amperser/proselint) ⭐ 4,563 | 🐛 236 | 🌐 JavaScript | 📅 2026-08-14 - Linter for prose.
+* [proselint](https://github.com/amperser/proselint) ⭐ 4,564 | 🐛 236 | 🌐 JavaScript | 📅 2026-08-18 - Linter for prose.
 * [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,069 | 🐛 107 | 🌐 Ruby | 📅 2026-08-09 - Markdown linter.
-* [remarklint](https://github.com/remarkjs/remark-lint) ⭐ 1,041 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-05 - Markdown linter.
+* [remarklint](https://github.com/remarkjs/remark-lint) ⭐ 1,042 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-05 - Markdown linter.
 * [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - reStructuredText linter.
 * [LanguageCheck](https://github.com/JohannesBuchner/languagecheck) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2025-07-21 - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 * [GNU Aspell](http://aspell.net/) - Command line spell checker.
@@ -155,8 +155,8 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,661 | 🐛 16 | 📅 2026-08-16
-* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,660 | 🐛 5 | 📅 2026-08-08
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,662 | 🐛 16 | 📅 2026-08-16
+* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,662 | 🐛 5 | 📅 2026-08-08
 * [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 952 | 🐛 65 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
@@ -166,4 +166,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
