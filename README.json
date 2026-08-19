@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60292
+            "stars": 60296
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-14T16:13:44Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5967
+            "stars": 5968
           }
         },
         {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-07-04T13:55:19Z",
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7234
+                "stars": 7233
               }
             },
             {
@@ -363,8 +363,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:40:35.742Z",
+    "last_updated": "2026-08-19T12:51:30.983Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
+    "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
     "enhanced_repository_description": null,

@@ -26,8 +26,8 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 60,292 | 🐛 680 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,336 | 🌐 Java | 📅 2026-08-19 - IDE for R.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 60,296 | 🐛 680 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,337 | 🌐 Java | 📅 2026-08-19 - IDE for R.
   * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 231 | 🌐 JavaScript | 📅 2026-08-17 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 45,937 | 🐛 1,049 | 🌐 Haskell | 📅 2026-08-18 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 45,938 | 🐛 1,050 | 🌐 Haskell | 📅 2026-08-18 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -99,7 +99,7 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 5,967 | 🐛 36 | 🌐 Go | 📅 2026-08-14 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 5,968 | 🐛 36 | 🌐 Go | 📅 2026-08-14 - Free, open-source linter for
   prose built with speed and extensibility in mind.
 * [write-good](https://github.com/btford/write-good) ⭐ 5,079 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
@@ -127,7 +127,7 @@ Reusable minimalist examples.
 
 ### Books
 
-* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,234 | 🐛 115 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
+* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,233 | 🐛 115 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
 * [Template for writing a PhD thesis in
   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) ⭐ 1,269 | 🐛 42 | 🌐 HTML | 📅 2023-05-23 - Clean
   organization of files to provide a framework for writing a PhD thesis in
