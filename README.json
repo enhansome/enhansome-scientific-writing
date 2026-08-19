@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110446844,
             "language": "TypeScript",
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60232
+            "stars": 60292
           }
         },
         {
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 45090026,
                 "language": "JavaScript",
                 "last_commit": "2026-08-17T23:07:17Z",
                 "owner": "rstudio",
@@ -39,8 +41,9 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-18T01:15:37Z",
+            "last_commit": "2026-08-19T06:22:28Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5044
@@ -58,6 +61,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14535342,
                 "language": "Vim Script",
                 "last_commit": "2025-11-07T12:41:19Z",
                 "owner": "vim-pandoc",
@@ -72,6 +76,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14121102,
                 "language": "Vim Script",
                 "last_commit": "2025-09-22T20:59:47Z",
                 "owner": "vim-pandoc",
@@ -86,6 +91,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 156204010,
                 "language": "Go",
                 "last_commit": "2024-07-25T18:18:12Z",
                 "owner": "msprev",
@@ -107,11 +113,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34369372,
                 "language": "HTML",
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4432
+                "stars": 4433
               }
             },
             {
@@ -121,11 +128,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77910704,
                 "language": "TypeScript",
                 "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3272
+                "stars": 3273
               }
             }
           ]
@@ -134,7 +142,7 @@
       "title": "Word Processors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -143,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81020247,
             "language": "Go",
             "last_commit": "2026-08-14T16:13:44Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5956
+            "stars": 5967
           }
         },
         {
@@ -157,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19128505,
             "language": "JavaScript",
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5078
+            "stars": 5079
           }
         },
         {
@@ -171,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29220809,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:20:48Z",
+            "last_commit": "2026-08-19T10:18:54Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4564
+            "stars": 4563
           }
         },
         {
@@ -185,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20388420,
             "language": "Ruby",
             "last_commit": "2026-08-09T19:12:44Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2069
+            "stars": 2068
           }
         },
         {
@@ -199,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35120039,
             "language": "JavaScript",
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
@@ -213,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14612476,
             "language": "Python",
             "last_commit": "2025-11-23T08:05:17Z",
             "owner": "twolfson",
@@ -227,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59239911,
             "language": "Python",
             "last_commit": "2025-07-21T15:55:58Z",
             "owner": "JohannesBuchner",
@@ -239,59 +254,64 @@
     },
     {
       "description": "Reusable minimalist examples.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eisvogel",
+              "description": "Clean academic pandoc LaTeX template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82565805,
+                "language": "Shell",
+                "last_commit": "2026-07-04T13:55:19Z",
+                "owner": "Wandmalfarbe",
+                "repo": "pandoc-latex-template",
+                "stars": 7234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Template for writing a PhD thesis in Markdown",
+              "description": "Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30587179,
+                "language": "HTML",
+                "last_commit": "2023-05-23T16:12:54Z",
+                "owner": "tompollard",
+                "repo": "phd_thesis_markdown",
+                "stars": 1269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bookdown-demo",
+              "description": "Minimal example of a book based on R Markdown and bookdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45944811,
+                "language": "CSS",
+                "last_commit": "2024-10-23T16:05:05Z",
+                "owner": "rstudio",
+                "repo": "bookdown-demo",
+                "stars": 533
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        }
+      ],
       "title": "Templates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Eisvogel",
-          "description": "Clean academic pandoc LaTeX template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-04T13:55:19Z",
-            "owner": "Wandmalfarbe",
-            "repo": "pandoc-latex-template",
-            "stars": 7234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Template for writing a PhD thesis in Markdown",
-          "description": "Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-05-23T16:12:54Z",
-            "owner": "tompollard",
-            "repo": "phd_thesis_markdown",
-            "stars": 1269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bookdown-demo",
-          "description": "Minimal example of a book based on R Markdown and bookdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-10-23T16:05:05Z",
-            "owner": "rstudio",
-            "repo": "bookdown-demo",
-            "stars": 533
-          }
-        }
-      ],
-      "title": "Books"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,8 +320,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-16T23:59:06Z",
+            "last_commit": "2026-08-19T00:00:12Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4662
@@ -314,11 +335,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49157768,
             "language": null,
             "last_commit": "2026-08-08T07:42:44Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1662
+            "stars": 1664
           }
         },
         {
@@ -328,6 +350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64252931,
             "language": null,
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
@@ -337,15 +360,10 @@
         }
       ],
       "title": "Other Lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:40:44.890Z",
+    "last_updated": "2026-08-19T10:40:35.742Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
