@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60296
+            "stars": 60343
           }
         },
         {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-17T23:07:17Z",
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4069
+                "stars": 4070
               }
             }
           ],
@@ -43,7 +43,7 @@
             "archived": false,
             "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-19T06:22:28Z",
+            "last_commit": "2026-08-20T04:11:11Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5044
@@ -133,7 +133,7 @@
                 "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3273
+                "stars": 3274
               }
             }
           ]
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 81020247,
             "language": "Go",
-            "last_commit": "2026-08-14T16:13:44Z",
+            "last_commit": "2026-08-19T23:39:24Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5968
+            "stars": 5978
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5079
+            "stars": 5081
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-09T19:12:44Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2068
+            "stars": 2069
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-19T00:00:12Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4662
+            "stars": 4663
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:30.983Z",
+    "last_updated": "2026-08-20T10:41:55.764Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
