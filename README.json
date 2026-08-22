@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60384
+            "stars": 60421
           }
         },
         {
@@ -43,7 +43,7 @@
             "archived": false,
             "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-20T22:54:48Z",
+            "last_commit": "2026-08-21T22:15:20Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5044
@@ -118,7 +118,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4435
+                "stars": 4436
               }
             },
             {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:44:17Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5983
+            "stars": 5990
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5081
+            "stars": 5083
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-19T10:18:54Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4564
+            "stars": 4565
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-09T19:12:44Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2070
+            "stars": 2071
           }
         },
         {
@@ -322,7 +322,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-21T00:00:30Z",
+            "last_commit": "2026-08-22T00:00:40Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:41:02.748Z",
+    "last_updated": "2026-08-22T10:35:19.629Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
