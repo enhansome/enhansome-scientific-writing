@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60458
+            "stars": 60503
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:44:17Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5995
+            "stars": 6002
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-09T19:12:44Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2071
+            "stars": 2072
           }
         },
         {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-07-04T13:55:19Z",
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7235
+                "stars": 7236
               }
             },
             {
@@ -322,10 +322,10 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-22T23:59:36Z",
+            "last_commit": "2026-08-23T23:59:34Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4662
+            "stars": 4663
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:35:08.307Z",
+    "last_updated": "2026-08-24T10:49:05.815Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
