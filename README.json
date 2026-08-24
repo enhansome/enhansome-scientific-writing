@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60503
+            "stars": 60513
           }
         },
         {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-17T23:07:17Z",
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4068
+                "stars": 4069
               }
             }
           ],
@@ -133,7 +133,7 @@
                 "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3275
+                "stars": 3276
               }
             }
           ]
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:44:17Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6002
+            "stars": 6004
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5084
+            "stars": 5085
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 29220809,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T17:32:29Z",
+            "last_commit": "2026-08-24T12:02:58Z",
             "owner": "amperser",
             "repo": "proselint",
             "stars": 4565
@@ -259,6 +259,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Paper Templates for GitHub Pages",
+              "description": "Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855507251,
+                "language": "HTML",
+                "last_commit": "2025-01-07T14:22:35Z",
+                "owner": "dev-onejun",
+                "repo": "paper-templates-for-github-pages",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Eisvogel",
               "description": "Clean academic pandoc LaTeX template.",
               "children": [],
@@ -269,7 +291,7 @@
                 "last_commit": "2026-07-04T13:55:19Z",
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7236
+                "stars": 7237
               }
             },
             {
@@ -363,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:49:05.815Z",
+    "last_updated": "2026-08-24T14:16:07.874Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
