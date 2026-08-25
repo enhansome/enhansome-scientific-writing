@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60513
+            "stars": 60547
           }
         },
         {
@@ -43,7 +43,7 @@
             "archived": false,
             "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-22T16:10:37Z",
+            "last_commit": "2026-08-25T03:06:42Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5044
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:44:17Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6004
+            "stars": 6007
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5085
+            "stars": 5086
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-24T12:02:58Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4565
+            "stars": 4566
           }
         },
         {
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-23T23:59:34Z",
+            "last_commit": "2026-08-25T00:00:15Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -377,7 +377,7 @@
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 952
+            "stars": 953
           }
         }
       ],
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:07.874Z",
+    "last_updated": "2026-08-25T06:08:31.841Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",

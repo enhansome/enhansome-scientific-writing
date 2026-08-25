@@ -26,9 +26,9 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 60,513 | 🐛 704 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,339 | 🌐 Java | 📅 2026-08-22 - IDE for R.
-  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 231 | 🌐 JavaScript | 📅 2026-08-17 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 60,547 | 🐛 709 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,044 | 🐛 1,339 | 🌐 Java | 📅 2026-08-25 - IDE for R.
+  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 230 | 🌐 JavaScript | 📅 2026-08-17 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
   * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 967 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 45,996 | 🐛 1,035 | 🌐 Haskell | 📅 2026-08-23 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,004 | 🐛 1,034 | 🌐 Haskell | 📅 2026-08-24 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -99,11 +99,11 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 6,004 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 6,007 | 🐛 27 | 🌐 Go | 📅 2026-08-21 - Free, open-source linter for
   prose built with speed and extensibility in mind.
-* [write-good](https://github.com/btford/write-good) ⭐ 5,085 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
+* [write-good](https://github.com/btford/write-good) ⭐ 5,086 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
-* [proselint](https://github.com/amperser/proselint) ⭐ 4,565 | 🐛 236 | 🌐 JavaScript | 📅 2026-08-24 - Linter for prose.
+* [proselint](https://github.com/amperser/proselint) ⭐ 4,566 | 🐛 236 | 🌐 JavaScript | 📅 2026-08-24 - Linter for prose.
 * [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,072 | 🐛 107 | 🌐 Ruby | 📅 2026-08-09 - Markdown linter.
 * [remarklint](https://github.com/remarkjs/remark-lint) ⭐ 1,042 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-05 - Markdown linter.
 * [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - reStructuredText linter.
@@ -155,9 +155,9 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,663 | 🐛 16 | 📅 2026-08-23
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,663 | 🐛 16 | 📅 2026-08-25
 * [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,665 | 🐛 4 | 📅 2026-08-08
-* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 952 | 🐛 67 | 📅 2024-08-21
+* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 953 | 🐛 68 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
@@ -166,4 +166,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
