@@ -15,7 +15,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60560
+            "stars": 60614
           }
         },
         {
@@ -43,10 +43,10 @@
             "archived": false,
             "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-25T03:06:42Z",
+            "last_commit": "2026-08-26T00:13:47Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5044
+            "stars": 5045
           }
         },
         {
@@ -118,7 +118,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4436
+                "stars": 4435
               }
             },
             {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T07:44:17Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6010
+            "stars": 6020
           }
         },
         {
@@ -306,7 +306,7 @@
                 "last_commit": "2023-05-23T16:12:54Z",
                 "owner": "tompollard",
                 "repo": "phd_thesis_markdown",
-                "stars": 1269
+                "stars": 1270
               }
             },
             {
@@ -344,7 +344,7 @@
             "archived": false,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-25T00:00:15Z",
+            "last_commit": "2026-08-26T00:00:34Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4663
@@ -377,7 +377,7 @@
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 953
+            "stars": 954
           }
         }
       ],
@@ -385,7 +385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:44:45.407Z",
+    "last_updated": "2026-08-26T10:47:19.991Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "original_repository_id": 147470530,
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
