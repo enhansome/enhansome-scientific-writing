@@ -26,8 +26,8 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 60,707 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,047 | 🐛 1,346 | 🌐 Java | 📅 2026-08-28 - IDE for R.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 60,714 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,047 | 🐛 1,349 | 🌐 Java | 📅 2026-08-29 - IDE for R.
   * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,069 | 🐛 230 | 🌐 JavaScript | 📅 2026-08-28 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,052 | 🐛 1,033 | 🌐 Haskell | 📅 2026-08-28 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,053 | 🐛 1,033 | 🌐 Haskell | 📅 2026-08-29 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -166,4 +166,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

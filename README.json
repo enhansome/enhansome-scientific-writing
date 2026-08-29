@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+            "homepage": "https://www.marktext.me",
             "id": 110446844,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T03:16:54Z",
+            "open_issues": 727,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60707
+            "stars": 60714,
+            "topics": [
+              "dark-mode",
+              "editor",
+              "electron",
+              "focus-mode",
+              "latex",
+              "linux",
+              "mac",
+              "macos",
+              "markdown",
+              "marktext",
+              "source-code",
+              "typewriter-mode",
+              "vue",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -31,24 +51,42 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authoring Books and Technical Documents with R Markdown",
+                "homepage": "https://pkgs.rstudio.com/bookdown/",
                 "id": 45090026,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T16:51:09Z",
+                "open_issues": 230,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4069
+                "stars": 4069,
+                "topics": [
+                  "book",
+                  "bookdown",
+                  "epub",
+                  "gitbook",
+                  "html",
+                  "latex",
+                  "rmarkdown"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "RStudio is an integrated development environment (IDE) for R",
+            "homepage": "https://posit.co/products/open-source/rstudio/",
             "id": 1147463,
             "language": "Java",
-            "last_commit": "2026-08-28T20:35:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:28:28Z",
+            "open_issues": 1349,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5047
+            "stars": 5047,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -64,12 +102,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pandoc integration and utilities for vim",
+                "homepage": null,
                 "id": 14535342,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-11-07T12:41:19Z",
+                "open_issues": 104,
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc",
-                "stars": 967
+                "stars": 967,
+                "topics": [
+                  "conversion",
+                  "markdown",
+                  "pandoc",
+                  "plugin-vim",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             },
@@ -80,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pandoc markdown syntax, to be installed alongside vim-pandoc",
+                "homepage": null,
                 "id": 14121102,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-09-22T20:59:47Z",
+                "open_issues": 147,
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc-syntax",
-                "stars": 428
+                "stars": 428,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             },
@@ -96,12 +150,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a BibTeX source for fzf",
+                "homepage": null,
                 "id": 156204010,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-25T18:18:12Z",
+                "open_issues": 0,
                 "owner": "msprev",
                 "repo": "fzf-bibtex",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "bibtex",
+                  "fzf",
+                  "neovim",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             }
@@ -119,12 +183,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One of the 'BEST' markdown preview extensions for Atom editor!",
+                "homepage": "https://shd101wyy.github.io/markdown-preview-enhanced",
                 "id": 34369372,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-05T01:40:20Z",
+                "open_issues": 209,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4435
+                "stars": 4435,
+                "topics": [
+                  "atom",
+                  "atom-package",
+                  "katex",
+                  "markdown",
+                  "markdown-editor",
+                  "mathjax",
+                  "mermaid",
+                  "pandoc",
+                  "plantuml",
+                  "toc"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             },
@@ -135,12 +215,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown All in One",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one",
                 "id": 77910704,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-13T04:49:10Z",
+                "open_issues": 458,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3277
+                "stars": 3277,
+                "topics": [
+                  "markdown",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             }
@@ -159,12 +247,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":pencil: A markup-aware linter for prose built with speed and extensibility in mind.",
+            "homepage": "https://vale.sh",
             "id": 81020247,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:10:16Z",
+            "open_issues": 26,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6043
+            "stars": 6043,
+            "topics": [
+              "linter",
+              "linting",
+              "vale"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -175,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Naive linter for English prose",
+            "homepage": null,
             "id": 19128505,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-10T04:04:12Z",
+            "open_issues": 24,
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5086
+            "stars": 5086,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -191,12 +293,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Mirror] A linter for prose.",
+            "homepage": "https://codeberg.org/amperser/proselint",
             "id": 29220809,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T16:20:16Z",
+            "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4569
+            "stars": 4569,
+            "topics": [
+              "advice",
+              "knowledge",
+              "language",
+              "linter",
+              "prose",
+              "style",
+              "writer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -207,12 +322,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown lint tool",
+            "homepage": null,
             "id": 20388420,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-09T19:12:44Z",
+            "open_issues": 108,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2075
+            "stars": 2075,
+            "topics": [
+              "markdown",
+              "markdownlint",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -223,12 +347,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugins to check (lint) markdown code style",
+            "homepage": "https://remark.js.org",
             "id": 35120039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-05T19:25:40Z",
+            "open_issues": 9,
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1042
+            "stars": 1042,
+            "topics": [
+              "check",
+              "lint",
+              "markdown",
+              "remark",
+              "remark-lint",
+              "remark-plugin",
+              "style",
+              "style-linter"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -239,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reStructuredText linter",
+            "homepage": null,
             "id": 14612476,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2025-11-23T08:05:17Z",
+            "open_issues": 6,
             "owner": "twolfson",
             "repo": "restructuredtext-lint",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -255,12 +398,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improve the language of your paper before submission",
+            "homepage": null,
             "id": 59239911,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-07-21T15:55:58Z",
+            "open_issues": 0,
             "owner": "JohannesBuchner",
             "repo": "languagecheck",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "grammar-checker",
+              "language-analysis",
+              "latex",
+              "overleaf",
+              "proof-reading",
+              "publishing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         }
@@ -279,12 +435,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✏️ A Simple Way to Make and Publish Professional Papers, Reports, and RESUME/CVs",
+                "homepage": "https://dev-onejun.github.io/paper-templates-for-github-pages",
                 "id": 855507251,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-07T14:22:35Z",
+                "open_issues": 0,
                 "owner": "dev-onejun",
                 "repo": "paper-templates-for-github-pages",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "academic",
+                  "academic-papers",
+                  "cv",
+                  "paper",
+                  "report",
+                  "resume",
+                  "scientific-reports",
+                  "template",
+                  "writing"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             }
@@ -302,12 +473,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pandoc LaTeX template to convert markdown files to PDF or LaTeX.",
+                "homepage": null,
                 "id": 82565805,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-04T13:55:19Z",
+                "open_issues": 115,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7241
+                "stars": 7241,
+                "topics": [
+                  "eisvogel",
+                  "koma-script",
+                  "latex",
+                  "latex-template",
+                  "markdown",
+                  "markdown-to-pdf",
+                  "pandoc",
+                  "pandoc-template",
+                  "pandoc-templates",
+                  "pdf",
+                  "pdf-generation",
+                  "tex"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             },
@@ -318,12 +507,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for writing a PhD thesis in Markdown",
+                "homepage": null,
                 "id": 30587179,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-05-23T16:12:54Z",
+                "open_issues": 42,
                 "owner": "tompollard",
                 "repo": "phd_thesis_markdown",
-                "stars": 1270
+                "stars": 1270,
+                "topics": [
+                  "markdown",
+                  "pandoc",
+                  "thesis-template"
+                ]
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             },
@@ -334,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal book example using bookdown",
+                "homepage": "https://bookdown.org/yihui/bookdown-demo",
                 "id": 45944811,
                 "language": "CSS",
+                "license": "CC0-1.0",
                 "last_commit": "2024-10-23T16:05:05Z",
+                "open_issues": 14,
                 "owner": "rstudio",
                 "repo": "bookdown-demo",
-                "stars": 533
+                "stars": 533,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:26.642Z"
             }
@@ -361,12 +564,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Jupyter projects, libraries and resources",
+            "homepage": null,
             "id": 101582879,
             "language": null,
-            "last_commit": "2026-08-28T02:24:47Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-28T23:57:55Z",
+            "open_issues": 17,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663
+            "stars": 4663,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "data-visualization",
+              "frontend",
+              "ipython",
+              "jupyter",
+              "jupyter-notebook",
+              "jupyterhub",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -377,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of LaTeX awesomeness",
+            "homepage": null,
             "id": 49157768,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:42:44Z",
+            "open_issues": 4,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1664
+            "stars": 1664,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         },
@@ -393,12 +620,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: Delightful Markdown stuff.",
+            "homepage": null,
             "id": 64252931,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-21T03:06:19Z",
+            "open_issues": 70,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "commonmark",
+              "gfm",
+              "list",
+              "markdown",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
         }
@@ -407,15 +647,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:26.642Z",
+    "last_updated": "2026-08-29T04:34:55.237Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
+      "homepage": "https://writing-resources.github.io/awesome-scientific-writing/",
       "id": 147470530,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-06T09:51:28Z",
+      "open_issues": 14,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
-      "stars": 995
+      "stars": 996,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jupyter-notebook",
+        "markdown",
+        "org-mode",
+        "pandoc",
+        "restructuredtext"
+      ]
     },
     "original_repository_sha": "c4a8c9ba4c6a4bc705f721e7024df00290f44f8b",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
