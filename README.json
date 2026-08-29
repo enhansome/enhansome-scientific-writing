@@ -19,7 +19,7 @@
             "open_issues": 727,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60714,
+            "stars": 60733,
             "topics": [
               "dark-mode",
               "editor",
@@ -82,7 +82,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T02:28:28Z",
-            "open_issues": 1349,
+            "open_issues": 1350,
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5047,
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:55.237Z",
+    "last_updated": "2026-08-29T15:01:12.330Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
