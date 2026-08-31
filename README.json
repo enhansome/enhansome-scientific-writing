@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-27T03:16:54Z",
-            "open_issues": 732,
+            "open_issues": 737,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60769,
+            "stars": 60816,
             "topics": [
               "dark-mode",
               "editor",
@@ -60,7 +60,7 @@
                 "open_issues": 230,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4069,
+                "stars": 4070,
                 "topics": [
                   "book",
                   "bookdown",
@@ -81,8 +81,8 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T02:23:26Z",
-            "open_issues": 1349,
+            "last_commit": "2026-08-31T17:28:06Z",
+            "open_issues": 1346,
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5047,
@@ -192,7 +192,7 @@
                 "open_issues": 209,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4434,
+                "stars": 4435,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -253,10 +253,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T14:10:16Z",
-            "open_issues": 27,
+            "open_issues": 29,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6045,
+            "stars": 6051,
             "topics": [
               "linter",
               "linting",
@@ -281,7 +281,7 @@
             "open_issues": 24,
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5086,
+            "stars": 5087,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -331,7 +331,7 @@
             "open_issues": 109,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2075,
+            "stars": 2076,
             "topics": [
               "markdown",
               "markdownlint",
@@ -569,11 +569,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-28T23:57:55Z",
+            "last_commit": "2026-08-30T23:57:58Z",
             "open_issues": 18,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4662,
+            "stars": 4663,
             "topics": [
               "awesome",
               "awesome-list",
@@ -608,7 +608,7 @@
             "open_issues": 4,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1664,
+            "stars": 1665,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:49:40.539Z",
+    "last_updated": "2026-08-31T17:34:09.996Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
