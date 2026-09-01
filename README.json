@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-27T03:16:54Z",
-            "open_issues": 737,
+            "last_commit": "2026-09-01T08:00:26Z",
+            "open_issues": 745,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60816,
+            "stars": 60879,
             "topics": [
               "dark-mode",
               "editor",
@@ -60,7 +60,7 @@
                 "open_issues": 230,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4070,
+                "stars": 4071,
                 "topics": [
                   "book",
                   "bookdown",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T17:28:06Z",
-            "open_issues": 1346,
+            "last_commit": "2026-09-01T04:31:27Z",
+            "open_issues": 1333,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5047,
+            "stars": 5048,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -224,7 +224,7 @@
                 "open_issues": 458,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3277,
+                "stars": 3278,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -253,10 +253,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T14:10:16Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6051,
+            "stars": 6052,
             "topics": [
               "linter",
               "linting",
@@ -327,8 +327,8 @@
             "id": 20388420,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-09T19:12:44Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-01T04:38:08Z",
+            "open_issues": 110,
             "owner": "markdownlint",
             "repo": "markdownlint",
             "stars": 2076,
@@ -482,7 +482,7 @@
                 "open_issues": 115,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7241,
+                "stars": 7240,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -569,7 +569,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-30T23:57:58Z",
+            "last_commit": "2026-08-31T23:57:59Z",
             "open_issues": 18,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:34:09.996Z",
+    "last_updated": "2026-09-01T14:47:22.224Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
