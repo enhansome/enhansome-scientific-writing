@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T08:00:26Z",
-            "open_issues": 745,
+            "last_commit": "2026-09-02T04:53:56Z",
+            "open_issues": 742,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60879,
+            "stars": 60925,
             "topics": [
               "dark-mode",
               "editor",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T04:31:27Z",
-            "open_issues": 1333,
+            "last_commit": "2026-09-01T21:07:22Z",
+            "open_issues": 1326,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5048,
+            "stars": 5049,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -192,7 +192,7 @@
                 "open_issues": 209,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4435,
+                "stars": 4434,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -253,10 +253,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T14:10:16Z",
-            "open_issues": 30,
+            "open_issues": 37,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6052,
+            "stars": 6056,
             "topics": [
               "linter",
               "linting",
@@ -482,7 +482,7 @@
                 "open_issues": 115,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7240,
+                "stars": 7242,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -569,11 +569,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T23:57:59Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-01T23:57:55Z",
+            "open_issues": 19,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4663,
+            "stars": 4665,
             "topics": [
               "awesome",
               "awesome-list",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:47:22.224Z",
+    "last_updated": "2026-09-02T14:23:16.836Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
