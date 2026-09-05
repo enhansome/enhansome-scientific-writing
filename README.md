@@ -26,8 +26,8 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 61,027 | 🐛 721 | 🌐 TypeScript | 📅 2026-09-04 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,049 | 🐛 1,336 | 🌐 Java | 📅 2026-09-04 - IDE for R.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 61,055 | 🐛 722 | 🌐 TypeScript | 📅 2026-09-04 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,049 | 🐛 1,336 | 🌐 Java | 📅 2026-09-05 - IDE for R.
   * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,071 | 🐛 230 | 🌐 JavaScript | 📅 2026-08-28 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
@@ -38,7 +38,7 @@ document**.
 * [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,434 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - Pandoc
     integration and utilities.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,281 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - Extension for enhanced
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,282 | 🐛 458 | 🌐 TypeScript | 📅 2026-06-13 - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
 * [Zettlr](https://www.zettlr.com/) - Markdown editor which
   integrates CSL, BibLaTeX, Pandoc and many other tools
@@ -48,12 +48,15 @@ document**.
 
 Reference managers to generate citations, BibTeX, and BibLaTeX files.
 
+* [ScholarRef](https://github.com/brodie-neuro/ScholarRef) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-10 - Convert citation styles
+  (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
 * [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
 * [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 * [Zotero](https://www.zotero.org/) - FOSS tool to collect, organize, cite, and
   share research.
+  * [Zotero OCR](https://github.com/UB-Mannheim/zotero-ocr) ⭐ 821 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-27 - Plugin that makes scanned PDFs searchable using Tesseract OCR and Poppler.
   * [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
 * [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
@@ -75,6 +78,10 @@ there are formal languages with which one can create beautiful graphics.
 
 Supplementary files and tools.
 
+* [Typst](https://github.com/typst/typst) ⭐ 55,854 | 🐛 1,279 | 🌐 Rust | 📅 2026-09-03 - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
+* [latex2arxiv](https://github.com/YuZh98/latex2arxiv) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-09-04 - Command-line tool which converts
+  a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
+  draft markup, and flags arXiv submission blockers before upload.
 * [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
   from Markdown source using remark or reveal.js :link:.
 * [docutils](https://docutils.sourceforge.io/docs/) - Python package which can
@@ -82,15 +89,17 @@ Supplementary files and tools.
   tools to do it :link:.
 * [Jupyter Book](https://jupyterbook.org/en/stable/) - A static site generator which converts
   a collection of CommonMark, MyST markdown and Jupyter notebooks into a HTML website.
+* [Manubot](https://manubot.org/) - Workflow for writing and publishing scholarly manuscripts with Markdown, persistent-identifier citations, and reproducible builds.
 * [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
   a superset of CommonMark markdown with reStructuredText like features.
+* [MyST Markdown CLI](https://mystmd.org/) - Command-line tools for building scientific documents from MyST Markdown with citations, cross-references, and HTML, PDF, and Word output.
 * [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - Convert Jupyter
   notebooks into `reveal.js` presentations, PDF, HTML, Markdown,
   reStructuredText and more.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,139 | 🐛 1,036 | 🌐 Haskell | 📅 2026-09-04 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,145 | 🐛 1,033 | 🌐 Haskell | 📅 2026-09-05 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -99,7 +108,7 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 6,076 | 🐛 34 | 🌐 Go | 📅 2026-09-02 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 6,079 | 🐛 32 | 🌐 Go | 📅 2026-09-04 - Free, open-source linter for
   prose built with speed and extensibility in mind.
 * [write-good](https://github.com/btford/write-good) ⭐ 5,088 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
@@ -155,9 +164,9 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,667 | 🐛 19 | 📅 2026-09-03
-* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,665 | 🐛 5 | 📅 2026-08-08
-* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 955 | 🐛 71 | 📅 2024-08-21
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,666 | 🐛 19 | 📅 2026-09-04
+* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,666 | 🐛 5 | 📅 2026-08-08
+* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 955 | 🐛 72 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
@@ -166,4 +175,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
