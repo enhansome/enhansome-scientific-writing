@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T04:59:05Z",
-            "open_issues": 722,
+            "open_issues": 724,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61055,
+            "stars": 61078,
             "topics": [
               "dark-mode",
               "editor",
@@ -60,7 +60,7 @@
                 "open_issues": 230,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4071,
+                "stars": 4073,
                 "topics": [
                   "book",
                   "bookdown",
@@ -81,7 +81,7 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T06:18:22Z",
+            "last_commit": "2026-09-05T18:45:53Z",
             "open_issues": 1336,
             "owner": "rstudio",
             "repo": "rstudio",
@@ -192,7 +192,7 @@
                 "open_issues": 209,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4434,
+                "stars": 4433,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -224,7 +224,7 @@
                 "open_issues": 458,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3282,
+                "stars": 3283,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -294,8 +294,8 @@
                 "id": 154726044,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-27T15:59:46Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-06T09:29:26Z",
+                "open_issues": 11,
                 "owner": "UB-Mannheim",
                 "repo": "zotero-ocr",
                 "stars": 821,
@@ -329,11 +329,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T17:12:22Z",
-            "open_issues": 1279,
+            "last_commit": "2026-09-05T21:48:05Z",
+            "open_issues": 1280,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55854,
+            "stars": 55866,
             "topics": [
               "compiler",
               "markup",
@@ -396,11 +396,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-05T05:56:43Z",
-                "open_issues": 1033,
+                "last_commit": "2026-09-06T05:06:06Z",
+                "open_issues": 1032,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46145,
+                "stars": 46155,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -435,11 +435,11 @@
             "id": 81020247,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:36:50Z",
+            "last_commit": "2026-09-05T21:49:34Z",
             "open_issues": 32,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6079,
+            "stars": 6080,
             "topics": [
               "linter",
               "linting",
@@ -464,7 +464,7 @@
             "open_issues": 24,
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5088,
+            "stars": 5090,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -514,7 +514,7 @@
             "open_issues": 110,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2076,
+            "stars": 2077,
             "topics": [
               "markdown",
               "markdownlint",
@@ -665,7 +665,7 @@
                 "open_issues": 115,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7245,
+                "stars": 7246,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -752,8 +752,8 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-04T23:57:49Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-06T10:51:16Z",
+            "open_issues": 11,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4666,
@@ -791,7 +791,7 @@
             "open_issues": 5,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1666,
+            "stars": 1667,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:24:57.750Z",
+    "last_updated": "2026-09-06T13:37:07.441Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -842,7 +842,7 @@
       "open_issues": 4,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
-      "stars": 998,
+      "stars": 999,
       "topics": [
         "awesome",
         "awesome-list",
