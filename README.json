@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T10:05:08Z",
-            "open_issues": 563,
+            "last_commit": "2026-09-13T03:07:53Z",
+            "open_issues": 561,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61326,
+            "stars": 61363,
             "topics": [
               "dark-mode",
               "editor",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T03:30:30Z",
-            "open_issues": 1349,
+            "last_commit": "2026-09-13T05:29:39Z",
+            "open_issues": 1336,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5055,
+            "stars": 5056,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -298,7 +298,7 @@
                 "open_issues": 10,
                 "owner": "UB-Mannheim",
                 "repo": "zotero-ocr",
-                "stars": 823,
+                "stars": 824,
                 "topics": [
                   "hacktoberfest",
                   "ocr",
@@ -330,10 +330,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T12:23:47Z",
-            "open_issues": 1291,
+            "open_issues": 1292,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55974,
+            "stars": 55990,
             "topics": [
               "compiler",
               "markup",
@@ -396,11 +396,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-11T21:04:45Z",
-                "open_issues": 1042,
+                "last_commit": "2026-09-13T04:10:50Z",
+                "open_issues": 1040,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46247,
+                "stars": 46259,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -439,7 +439,7 @@
             "open_issues": 28,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6100,
+            "stars": 6101,
             "topics": [
               "linter",
               "linting",
@@ -464,7 +464,7 @@
             "open_issues": 24,
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5089,
+            "stars": 5090,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -485,7 +485,7 @@
             "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4575,
+            "stars": 4576,
             "topics": [
               "advice",
               "knowledge",
@@ -752,8 +752,8 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-11T23:57:56Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-12T23:58:05Z",
+            "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4666,
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:33:32.925Z",
+    "last_updated": "2026-09-13T14:17:01.247Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -842,7 +842,7 @@
       "open_issues": 5,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
-      "stars": 1000,
+      "stars": 1001,
       "topics": [
         "awesome",
         "awesome-list",
