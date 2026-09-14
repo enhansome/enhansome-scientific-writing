@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T03:07:53Z",
-            "open_issues": 561,
+            "last_commit": "2026-09-14T14:19:20Z",
+            "open_issues": 543,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61363,
+            "stars": 61414,
             "topics": [
               "dark-mode",
               "editor",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:29:39Z",
-            "open_issues": 1336,
+            "last_commit": "2026-09-14T15:30:25Z",
+            "open_issues": 1331,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5056,
+            "stars": 5058,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -224,7 +224,7 @@
                 "open_issues": 459,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3288,
+                "stars": 3290,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -240,6 +240,38 @@
     {
       "description": "Reference managers to generate citations, BibTeX, and BibLaTeX files.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "citecheck",
+          "description": "Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Check whether the references in your .bib/.ris/CSL-JSON bibliography actually exist and aren't retracted — using Crossref, OpenAlex and DOAJ. No API key, no signup.",
+            "homepage": "https://app.acurio.ch/quick-check",
+            "id": 1257440139,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-30T07:03:20Z",
+            "open_issues": 0,
+            "owner": "tobiasosDev",
+            "repo": "citecheck",
+            "stars": 3,
+            "topics": [
+              "academic",
+              "bibliography",
+              "bibtex",
+              "citations",
+              "crossref",
+              "doaj",
+              "openalex",
+              "ris",
+              "thesis",
+              "zotero"
+            ]
+          },
+          "first_seen": "2026-09-14T16:19:50.061Z"
+        },
         {
           "node_type": "item",
           "title": "ScholarRef",
@@ -329,11 +361,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T12:23:47Z",
-            "open_issues": 1292,
+            "last_commit": "2026-09-14T12:31:26Z",
+            "open_issues": 1293,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55990,
+            "stars": 56011,
             "topics": [
               "compiler",
               "markup",
@@ -396,11 +428,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-13T04:10:50Z",
-                "open_issues": 1040,
+                "last_commit": "2026-09-14T16:19:39Z",
+                "open_issues": 1041,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46259,
+                "stars": 46274,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -436,10 +468,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-10T11:19:16Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6101,
+            "stars": 6105,
             "topics": [
               "linter",
               "linting",
@@ -514,7 +546,7 @@
             "open_issues": 109,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2077,
+            "stars": 2076,
             "topics": [
               "markdown",
               "markdownlint",
@@ -539,7 +571,7 @@
             "open_issues": 9,
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "check",
               "lint",
@@ -665,7 +697,7 @@
                 "open_issues": 115,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7249,
+                "stars": 7250,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -752,11 +784,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-12T23:58:05Z",
+            "last_commit": "2026-09-13T23:57:53Z",
             "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4666,
+            "stars": 4667,
             "topics": [
               "awesome",
               "awesome-list",
@@ -809,10 +841,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-21T03:06:19Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "awesome",
               "awesome-list",
@@ -830,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:17:01.247Z",
+    "last_updated": "2026-09-14T16:19:50.061Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -838,8 +870,8 @@
       "id": 147470530,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-05T09:43:41Z",
-      "open_issues": 5,
+      "last_commit": "2026-09-14T15:46:10Z",
+      "open_issues": 6,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
       "stars": 1001,
@@ -853,7 +885,7 @@
         "restructuredtext"
       ]
     },
-    "original_repository_sha": "f808c6d582601ccd65bd30e7ebef6c6a27d8e6ae",
+    "original_repository_sha": "1e18ef31a187718e6a704f7fc02f6d597e909f0f",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
     "enhanced_repository_description": null,
     "title": "Awesome Scientific Writing with stars"
