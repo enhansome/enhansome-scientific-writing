@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:53:41Z",
-            "open_issues": 534,
+            "last_commit": "2026-09-16T14:30:32Z",
+            "open_issues": 528,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61451,
+            "stars": 61491,
             "topics": [
               "dark-mode",
               "editor",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T04:23:52Z",
-            "open_issues": 1336,
+            "last_commit": "2026-09-16T02:25:23Z",
+            "open_issues": 1322,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5059,
+            "stars": 5060,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -192,7 +192,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4437,
+                "stars": 4438,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -224,7 +224,7 @@
                 "open_issues": 459,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3290,
+                "stars": 3289,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -330,7 +330,7 @@
                 "open_issues": 10,
                 "owner": "UB-Mannheim",
                 "repo": "zotero-ocr",
-                "stars": 824,
+                "stars": 826,
                 "topics": [
                   "hacktoberfest",
                   "ocr",
@@ -361,11 +361,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:11:04Z",
-            "open_issues": 1295,
+            "last_commit": "2026-09-16T08:50:01Z",
+            "open_issues": 1297,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56028,
+            "stars": 56050,
             "topics": [
               "compiler",
               "markup",
@@ -428,11 +428,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-15T05:49:15Z",
-                "open_issues": 1040,
+                "last_commit": "2026-09-16T06:18:25Z",
+                "open_issues": 1041,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46288,
+                "stars": 46300,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -471,7 +471,7 @@
             "open_issues": 30,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6106,
+            "stars": 6109,
             "topics": [
               "linter",
               "linting",
@@ -517,7 +517,7 @@
             "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4576,
+            "stars": 4575,
             "topics": [
               "advice",
               "knowledge",
@@ -546,7 +546,7 @@
             "open_issues": 109,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2076,
+            "stars": 2075,
             "topics": [
               "markdown",
               "markdownlint",
@@ -554,6 +554,34 @@
             ]
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rumdl",
+          "description": "Fast Markdown linter and formatter written in Rust, with built-in support for several \"flavors\" such as GFM, MkDocs, MyST, Quarto etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fast Markdown linter and formatter written in Rust",
+            "homepage": null,
+            "id": 940812004,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-14T15:11:00Z",
+            "open_issues": 33,
+            "owner": "rvben",
+            "repo": "rumdl",
+            "stars": 1500,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "formatter",
+              "linter",
+              "markdown",
+              "rust"
+            ]
+          },
+          "first_seen": "2026-09-16T14:52:39.127Z"
         },
         {
           "node_type": "item",
@@ -784,11 +812,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-14T23:58:07Z",
+            "last_commit": "2026-09-15T23:57:58Z",
             "open_issues": 10,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4667,
+            "stars": 4669,
             "topics": [
               "awesome",
               "awesome-list",
@@ -862,7 +890,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:54:54.514Z",
+    "last_updated": "2026-09-16T14:52:39.127Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -870,8 +898,8 @@
       "id": 147470530,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T16:39:31Z",
-      "open_issues": 7,
+      "last_commit": "2026-09-15T21:02:37Z",
+      "open_issues": 0,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
       "stars": 1002,
@@ -885,7 +913,7 @@
         "restructuredtext"
       ]
     },
-    "original_repository_sha": "1e18ef31a187718e6a704f7fc02f6d597e909f0f",
+    "original_repository_sha": "f4a041f9b029662debe237ba1098fe793070ccfe",
     "enhanced_repository": "enhansome/enhansome-scientific-writing",
     "enhanced_repository_description": null,
     "title": "Awesome Scientific Writing with stars"
