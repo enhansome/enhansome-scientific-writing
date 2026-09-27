@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T12:46:20Z",
+            "last_commit": "2026-09-27T09:52:59Z",
             "open_issues": 375,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61855,
+            "stars": 61883,
             "topics": [
               "dark-mode",
               "editor",
@@ -60,7 +60,7 @@
                 "open_issues": 229,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4079,
+                "stars": 4078,
                 "topics": [
                   "book",
                   "bookdown",
@@ -81,11 +81,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T05:47:38Z",
-            "open_issues": 1339,
+            "last_commit": "2026-09-27T04:21:12Z",
+            "open_issues": 1328,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5076,
+            "stars": 5077,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -192,7 +192,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4441,
+                "stars": 4442,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -330,7 +330,7 @@
                 "open_issues": 10,
                 "owner": "UB-Mannheim",
                 "repo": "zotero-ocr",
-                "stars": 828,
+                "stars": 829,
                 "topics": [
                   "hacktoberfest",
                   "ocr",
@@ -362,10 +362,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T05:48:22Z",
-            "open_issues": 1287,
+            "open_issues": 1289,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56260,
+            "stars": 56276,
             "topics": [
               "compiler",
               "markup",
@@ -428,11 +428,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-25T18:55:35Z",
-                "open_issues": 1055,
+                "last_commit": "2026-09-27T06:56:39Z",
+                "open_issues": 1053,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46415,
+                "stars": 46421,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -471,7 +471,7 @@
             "open_issues": 16,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6164,
+            "stars": 6166,
             "topics": [
               "linter",
               "linting",
@@ -546,7 +546,7 @@
             "open_issues": 108,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2080,
+            "stars": 2081,
             "topics": [
               "markdown",
               "markdownlint",
@@ -567,11 +567,11 @@
             "id": 940812004,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-26T14:20:14Z",
+            "last_commit": "2026-09-26T20:57:28Z",
             "open_issues": 28,
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1527,
+            "stars": 1530,
             "topics": [
               "cli",
               "developer-tools",
@@ -725,7 +725,7 @@
                 "open_issues": 116,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7264,
+                "stars": 7266,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -851,7 +851,7 @@
             "open_issues": 7,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1672,
+            "stars": 1673,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -872,7 +872,7 @@
             "open_issues": 74,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "awesome",
               "awesome-list",
@@ -890,7 +890,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:23:30.110Z",
+    "last_updated": "2026-09-27T15:07:05.378Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
