@@ -26,9 +26,9 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 62,157 | 🐛 351 | 🌐 TypeScript | 📅 2026-10-03 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,081 | 🐛 1,311 | 🌐 Java | 📅 2026-10-05 - IDE for R.
-  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,078 | 🐛 229 | 🌐 JavaScript | 📅 2026-09-18 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 62,174 | 🐛 342 | 🌐 TypeScript | 📅 2026-10-06 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,081 | 🐛 1,317 | 🌐 Java | 📅 2026-10-06 - IDE for R.
+  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,079 | 🐛 229 | 🌐 JavaScript | 📅 2026-09-18 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
   * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 967 | 🐛 104 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
@@ -36,7 +36,7 @@ document**.
   * [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) ⭐ 132 | 🐛 0 | 🌐 Go | 📅 2024-07-25 - BibTeX source
     with Vim integration which uses fzf (a fuzzy finder implemented in Go).
 * [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
-  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,443 | 🐛 211 | 🌐 HTML | 📅 2026-05-05 - Pandoc
+  * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,444 | 🐛 211 | 🌐 HTML | 📅 2026-05-05 - Pandoc
     integration and utilities.
   * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,298 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
@@ -79,7 +79,7 @@ there are formal languages with which one can create beautiful graphics.
 
 Supplementary files and tools.
 
-* [Typst](https://github.com/typst/typst) ⭐ 56,430 | 🐛 1,297 | 🌐 Rust | 📅 2026-10-06 - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
+* [Typst](https://github.com/typst/typst) ⭐ 56,440 | 🐛 1,298 | 🌐 Rust | 📅 2026-10-06 - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
 * [latex2arxiv](https://github.com/YuZh98/latex2arxiv) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2026-09-12 - Command-line tool which converts
   a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
   draft markup, and flags arXiv submission blockers before upload.
@@ -100,7 +100,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,596 | 🐛 1,039 | 🌐 Haskell | 📅 2026-10-06 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,619 | 🐛 1,040 | 🌐 Haskell | 📅 2026-10-06 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -109,12 +109,12 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 6,206 | 🐛 15 | 🌐 Go | 📅 2026-10-03 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 6,207 | 🐛 16 | 🌐 Go | 📅 2026-10-06 - Free, open-source linter for
   prose built with speed and extensibility in mind.
 * [write-good](https://github.com/btford/write-good) ⭐ 5,095 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,581 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04 - Linter for prose.
-* [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,084 | 🐛 109 | 🌐 Ruby | 📅 2026-10-01 - Markdown linter.
+* [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,085 | 🐛 109 | 🌐 Ruby | 📅 2026-10-01 - Markdown linter.
 * [rumdl](https://github.com/rvben/rumdl) ⭐ 1,554 | 🐛 32 | 🌐 Rust | 📅 2026-10-05 - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 * [remarklint](https://github.com/remarkjs/remark-lint) ⭐ 1,043 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-05 - Markdown linter.
 * [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - reStructuredText linter.
@@ -139,7 +139,7 @@ Reusable minimalist examples.
 
 ### Books
 
-* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,269 | 🐛 116 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
+* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,270 | 🐛 116 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
 * [Template for writing a PhD thesis in
   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) ⭐ 1,275 | 🐛 42 | 🌐 HTML | 📅 2023-05-23 - Clean
   organization of files to provide a framework for writing a PhD thesis in
@@ -169,7 +169,7 @@ How to generate articles and presentations for scientific purposes.
 
 * [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,680 | 🐛 7 | 📅 2026-10-06
 * [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,672 | 🐛 9 | 📅 2026-08-08
-* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 959 | 🐛 78 | 📅 2024-08-21
+* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 959 | 🐛 79 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
