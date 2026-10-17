@@ -26,8 +26,8 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 62,722 | 🐛 303 | 🌐 TypeScript | 📅 2026-10-16 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,086 | 🐛 1,336 | 🌐 Java | 📅 2026-10-16 - IDE for R.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 62,753 | 🐛 306 | 🌐 TypeScript | 📅 2026-10-17 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,088 | 🐛 1,349 | 🌐 Java | 📅 2026-10-17 - IDE for R.
   * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,084 | 🐛 229 | 🌐 JavaScript | 📅 2026-09-18 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Vim](https://www.vim.org/) - Command line text editor.
@@ -38,7 +38,7 @@ document**.
 * [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,446 | 🐛 210 | 🌐 HTML | 📅 2026-10-09 - Pandoc
     integration and utilities.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,299 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - Extension for enhanced
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,300 | 🐛 463 | 🌐 TypeScript | 📅 2026-06-13 - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
 * [Zettlr](https://www.zettlr.com/) - Markdown editor which
   integrates CSL, BibLaTeX, Pandoc and many other tools
@@ -79,8 +79,8 @@ there are formal languages with which one can create beautiful graphics.
 
 Supplementary files and tools.
 
-* [Typst](https://github.com/typst/typst) ⭐ 56,657 | 🐛 1,315 | 🌐 Rust | 📅 2026-10-16 - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
-* [latex2arxiv](https://github.com/YuZh98/latex2arxiv) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-10-12 - Command-line tool which converts
+* [Typst](https://github.com/typst/typst) ⭐ 56,669 | 🐛 1,320 | 🌐 Rust | 📅 2026-10-16 - Markup-based typesetting system with math, bibliography management, and fast incremental compilation to PDF.
+* [latex2arxiv](https://github.com/YuZh98/latex2arxiv) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2026-10-17 - Command-line tool which converts
   a LaTeX project into an arXiv-ready ZIP: prunes unused files, strips comments and
   draft markup, and flags arXiv submission blockers before upload.
 * [Cicero](https://cicero.xyz/) - Python package which renders HTML presentations
@@ -100,7 +100,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,608 | 🐛 1,045 | 🌐 Haskell | 📅 2026-10-15 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 46,611 | 🐛 1,044 | 🌐 Haskell | 📅 2026-10-17 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -109,13 +109,13 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 6,245 | 🐛 26 | 🌐 Go | 📅 2026-10-14 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 6,250 | 🐛 17 | 🌐 Go | 📅 2026-10-16 - Free, open-source linter for
   prose built with speed and extensibility in mind.
-* [write-good](https://github.com/btford/write-good) ⭐ 5,097 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
+* [write-good](https://github.com/btford/write-good) ⭐ 5,098 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,586 | 🐛 236 | 🌐 JavaScript | 📅 2026-09-04 - Linter for prose.
-* [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,084 | 🐛 110 | 🌐 Ruby | 📅 2026-10-01 - Markdown linter.
-* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,587 | 🐛 35 | 🌐 Rust | 📅 2026-10-16 - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
+* [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,083 | 🐛 110 | 🌐 Ruby | 📅 2026-10-01 - Markdown linter.
+* [rumdl](https://github.com/rvben/rumdl) ⭐ 1,588 | 🐛 16 | 🌐 Rust | 📅 2026-10-17 - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 * [remarklint](https://github.com/remarkjs/remark-lint) ⭐ 1,039 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-05 - Markdown linter.
 * [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) ⭐ 183 | 🐛 6 | 🌐 Python | 📅 2025-11-23 - reStructuredText linter.
 * [LanguageCheck](https://github.com/JohannesBuchner/languagecheck) ⭐ 111 | 🐛 0 | 🌐 Python | 📅 2025-07-21 - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
@@ -139,7 +139,7 @@ Reusable minimalist examples.
 
 ### Books
 
-* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,282 | 🐛 116 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
+* [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,281 | 🐛 116 | 🌐 Shell | 📅 2026-07-04 - Clean academic pandoc LaTeX template.
 * [Template for writing a PhD thesis in
   Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) ⭐ 1,275 | 🐛 42 | 🌐 HTML | 📅 2023-05-23 - Clean
   organization of files to provide a framework for writing a PhD thesis in
@@ -167,9 +167,9 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,677 | 🐛 7 | 📅 2026-10-16
-* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,674 | 🐛 14 | 📅 2026-08-08
-* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 962 | 🐛 77 | 📅 2024-08-21
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,677 | 🐛 7 | 📅 2026-10-17
+* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,673 | 🐛 14 | 📅 2026-08-08
+* [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 961 | 🐛 77 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute
@@ -178,4 +178,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
