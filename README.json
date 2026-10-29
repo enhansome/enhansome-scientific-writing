@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T14:53:13Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-29T15:34:03Z",
+            "open_issues": 223,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 63221,
+            "stars": 63269,
             "topics": [
               "editor",
               "electron",
@@ -58,7 +58,7 @@
                 "open_issues": 228,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4089,
+                "stars": 4090,
                 "topics": [
                   "book",
                   "bookdown",
@@ -79,11 +79,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T16:28:18Z",
-            "open_issues": 1357,
+            "last_commit": "2026-10-29T16:20:32Z",
+            "open_issues": 1356,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5099,
+            "stars": 5102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -190,7 +190,7 @@
                 "open_issues": 210,
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4454,
+                "stars": 4455,
                 "topics": [
                   "atom",
                   "atom-package",
@@ -219,10 +219,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-13T04:49:10Z",
-                "open_issues": 463,
+                "open_issues": 465,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3298,
+                "stars": 3299,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -359,11 +359,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T11:36:12Z",
-            "open_issues": 1325,
+            "last_commit": "2026-10-29T15:01:38Z",
+            "open_issues": 1321,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56867,
+            "stars": 56878,
             "topics": [
               "compiler",
               "markup",
@@ -426,11 +426,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-28T15:34:46Z",
-                "open_issues": 1051,
+                "last_commit": "2026-10-29T06:01:41Z",
+                "open_issues": 1063,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46734,
+                "stars": 46748,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -469,7 +469,7 @@
             "open_issues": 20,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6299,
+            "stars": 6301,
             "topics": [
               "linter",
               "linting",
@@ -494,7 +494,7 @@
             "open_issues": 25,
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5107,
+            "stars": 5108,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -515,7 +515,7 @@
             "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4587,
+            "stars": 4589,
             "topics": [
               "advice",
               "knowledge",
@@ -544,7 +544,7 @@
             "open_issues": 110,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2084,
+            "stars": 2083,
             "topics": [
               "markdown",
               "markdownlint",
@@ -569,7 +569,7 @@
             "open_issues": 21,
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1616,
+            "stars": 1615,
             "topics": [
               "cli",
               "developer-tools",
@@ -723,7 +723,7 @@
                 "open_issues": 117,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7287,
+                "stars": 7290,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -810,11 +810,11 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-28T02:37:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-29T02:57:08Z",
+            "open_issues": 12,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4686,
+            "stars": 4684,
             "topics": [
               "awesome",
               "awesome-list",
@@ -846,7 +846,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:42:44Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
             "stars": 1676,
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:34:28.612Z",
+    "last_updated": "2026-10-29T16:52:06.917Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -897,10 +897,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-15T21:02:37Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
-      "stars": 1016,
+      "stars": 1017,
       "topics": [
         "awesome",
         "awesome-list",
