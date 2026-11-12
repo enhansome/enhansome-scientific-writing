@@ -15,11 +15,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T07:24:01Z",
-            "open_issues": 241,
+            "last_commit": "2026-11-12T16:56:15Z",
+            "open_issues": 253,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 63859,
+            "stars": 63919,
             "topics": [
               "editor",
               "electron",
@@ -58,7 +58,7 @@
                 "open_issues": 228,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4094,
+                "stars": 4093,
                 "topics": [
                   "book",
                   "bookdown",
@@ -79,11 +79,11 @@
             "id": 1147463,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T17:51:07Z",
-            "open_issues": 1365,
+            "last_commit": "2026-11-12T17:55:13Z",
+            "open_issues": 1363,
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5111,
+            "stars": 5112,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -222,7 +222,7 @@
                 "open_issues": 466,
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3294,
+                "stars": 3293,
                 "topics": [
                   "markdown",
                   "vscode"
@@ -360,10 +360,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T10:38:42Z",
-            "open_issues": 1348,
+            "open_issues": 1352,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57133,
+            "stars": 57169,
             "topics": [
               "compiler",
               "markup",
@@ -386,7 +386,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-04T18:32:40Z",
-            "open_issues": 1,
+            "open_issues": 4,
             "owner": "YuZh98",
             "repo": "latex2arxiv",
             "stars": 6,
@@ -426,11 +426,11 @@
                 "id": 571770,
                 "language": "Haskell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-11T17:14:44Z",
+                "last_commit": "2026-11-12T06:42:40Z",
                 "open_issues": 1042,
                 "owner": "jgm",
                 "repo": "pandoc",
-                "stars": 46912,
+                "stars": 46935,
                 "topics": [
                   "commonmark",
                   "converter",
@@ -465,11 +465,11 @@
             "id": 81020247,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-09T05:27:19Z",
+            "last_commit": "2026-11-12T18:08:40Z",
             "open_issues": 19,
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 6376,
+            "stars": 6381,
             "topics": [
               "linter",
               "linting",
@@ -515,7 +515,7 @@
             "open_issues": 236,
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4599,
+            "stars": 4600,
             "topics": [
               "advice",
               "knowledge",
@@ -544,7 +544,7 @@
             "open_issues": 109,
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2084,
+            "stars": 2086,
             "topics": [
               "markdown",
               "markdownlint",
@@ -565,11 +565,11 @@
             "id": 940812004,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T22:15:45Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-12T16:25:43Z",
+            "open_issues": 17,
             "owner": "rvben",
             "repo": "rumdl",
-            "stars": 1647,
+            "stars": 1655,
             "topics": [
               "cli",
               "developer-tools",
@@ -597,7 +597,7 @@
             "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "check",
               "lint",
@@ -723,7 +723,7 @@
                 "open_issues": 116,
                 "owner": "Wandmalfarbe",
                 "repo": "pandoc-latex-template",
-                "stars": 7302,
+                "stars": 7303,
                 "topics": [
                   "eisvogel",
                   "koma-script",
@@ -810,7 +810,7 @@
             "id": 101582879,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-11T03:11:28Z",
+            "last_commit": "2026-11-12T04:23:33Z",
             "open_issues": 16,
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
@@ -849,7 +849,7 @@
             "open_issues": 29,
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1681,
+            "stars": 1682,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:26.642Z"
@@ -867,7 +867,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-08-21T03:06:19Z",
-            "open_issues": 85,
+            "open_issues": 84,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
             "stars": 965,
@@ -888,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:51:13.916Z",
+    "last_updated": "2026-11-12T18:11:28.704Z",
     "original_repository_info": {
       "archived": false,
       "description": ":keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX ",
@@ -900,7 +900,7 @@
       "open_issues": 0,
       "owner": "writing-resources",
       "repo": "awesome-scientific-writing",
-      "stars": 1020,
+      "stars": 1023,
       "topics": [
         "awesome",
         "awesome-list",
